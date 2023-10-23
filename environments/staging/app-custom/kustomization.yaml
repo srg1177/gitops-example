@@ -5,4 +5,4 @@ images:
   - name: srg1177/nginx
     newTag: v1.0.0
 resources:
-  - ../../app-custom
+  - ../../../app-custom
