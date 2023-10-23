@@ -1,5 +1,4 @@
 ---
-
 namespace: staging
 images:
   - name: srg1177/nginx
